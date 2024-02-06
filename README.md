@@ -2,8 +2,23 @@
 
 Zulfan Andria Putranto
 13222063
-Untuk menjalankan project dengan CMake
-& mkdir build
-& cd build
-& cmake ..
-& make
+
+Untuk menyiapkan project dengan CMake
+
+   ```sh
+   mkdir build
+   ```
+   ```sh
+   cd build
+   ```
+   ```sh
+   cmake ..
+   ```
+   ```sh
+   make
+   ```
+
+Untuk menjalankan project
+   ```sh
+   ./main
+   ```
