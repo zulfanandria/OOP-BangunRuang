@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Balok.hpp
+BangunRuang.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/BangunRuang.hpp
+
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/BangunRuang.hpp
+iostream
+-
+string
+-
+
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Kubus.cpp
+Kubus.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Kubus.hpp
+
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Kubus.hpp
+BangunRuang.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/BangunRuang.hpp
+
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Silinder.hpp
+BangunRuang.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/BangunRuang.hpp
+
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/main.cpp
+iostream
+-
+BangunRuang.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/BangunRuang.hpp
+Kubus.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Kubus.hpp
+Balok.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Balok.hpp
+Silinder.hpp
+/home/zulfan/Documents/Aksantara/Pendidikan/Firmware/T1/Silinder.hpp
+

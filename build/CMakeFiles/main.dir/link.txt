@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/main.cpp.o CMakeFiles/main.dir/BangunRuang.cpp.o CMakeFiles/main.dir/Kubus.cpp.o CMakeFiles/main.dir/Balok.cpp.o CMakeFiles/main.dir/Silinder.cpp.o  -o main 
